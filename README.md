@@ -26,9 +26,10 @@
 ![JUnit](https://img.shields.io/badge/junit-%23E33332?logo=junit5&logoColor=white)
 
 ### Mobile:
-![IOS](https://img.shields.io/badge/platform-%20IOS%20%7C%20Android%20-black?style=flat-square)
-![Swift](https://img.shields.io/badge/Swift-5.1_5.2_5.3_5.4-Orange?style=flat-square)
+![APPLE](https://img.shields.io/badge/Apple-000000?style=flat&logo=apple)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1.5.12-4285F4?logo=jetpackcompose)
 
 ### Socials:
