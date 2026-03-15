@@ -40,5 +40,16 @@
 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://jose-conejero.netlify.app/)
 
 
+###
+
+<h2 alinear="centro">📊 Estadísticas de GitHub</h2>
+
+<pag alinear='centro'>
+<a href="https://github.com/JCSIVO">
+    <img src="https://github-readme-stats.vercel.app/api?username=JCSIVO&show_icons=true&count_private=true&theme=radical" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCSIVO&layout=compact&langs_count=7&theme=radical" width="300"/>
+  </a>
+</pag>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCSIVO&theme=github_dark) 
 ![](https://komarev.com/ghpvc/?username=JCSIVO)
