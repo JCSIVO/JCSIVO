@@ -1,0 +1,32 @@
+# Dependencias
+vendor/
+node_modules/
+
+# Compilados .NET / Java
+bin/
+obj/
+target/
+*.class
+*.jar
+
+# Entorno
+.env
+.env.*
+!.env.example
+
+# IDE / OS
+.vs/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Django
+__pycache__/
+*.pyc
+db.sqlite3
+**/migrations/000*.py
